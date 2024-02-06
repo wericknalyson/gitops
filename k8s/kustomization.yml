@@ -8,4 +8,4 @@ resources:
 images:
 - name: nodeserver
   newName: wericknalyson/gitops
-  newTag: 0217ff664d1502bf54aef0916476fe7a37d94de0
+  newTag: 0808deae5217612788e762c456d51c3871d9f81f
